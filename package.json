@@ -1,0 +1,23 @@
+{
+  "name": "temp-node-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Abdulrehman/temp-node-tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Abdulrehman/temp-node-tut/issues"
+  },
+  "homepage": "https://github.com/Mr-Abdulrehman/temp-node-tut#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "lodash": "^4.17.21"
+  }
+}
